@@ -1,0 +1,34 @@
+﻿  Shapes.cpp
+C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\Shapes.cpp(8,11): error C2259: 'Triangle': cannot instantiate abstract class
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\triangle.h(7,7):
+      see declaration of 'Triangle'
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\Shapes.cpp(8,11):
+      due to following members:
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\Shapes.cpp(8,11):
+      'float Shape::get_area(void) const': is abstract
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\shape.h(13,16):
+      see declaration of 'Shape::get_area'
+  
+C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\Shapes.cpp(8,19): error C2259: 'Triangle': cannot instantiate abstract class
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\triangle.h(7,7):
+      see declaration of 'Triangle'
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\Shapes.cpp(8,19):
+      due to following members:
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\Shapes.cpp(8,19):
+      'float Shape::get_area(void) const': is abstract
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\shape.h(13,16):
+      see declaration of 'Shape::get_area'
+  
+C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\Shapes.cpp(11,25): error C2259: 'Triangle': cannot instantiate abstract class
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\triangle.h(7,7):
+      see declaration of 'Triangle'
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\Shapes.cpp(11,25):
+      due to following members:
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\Shapes.cpp(11,25):
+      'float Shape::get_area(void) const': is abstract
+      C:\Users\Cyber_User\Documents\magshimim\עקרונות\week6\DebugWorkshop\Shapes\shape.h(13,16):
+      see declaration of 'Shape::get_area'
+  
+  shape.cpp
+  triangle.cpp
+  Generating Code...
